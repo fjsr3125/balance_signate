@@ -1,0 +1,2 @@
+# balance_signate
+SIGNATEの練習問題である天秤問題を解くためのコードを保管するリポジトリ
